@@ -1,0 +1,27 @@
+.class{
+    align-items: center;
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+.out{
+    background-color: darksalmon;
+    text-align: center;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.in{
+    margin-top: auto;
+    margin-bottom: 0% auto;
+    padding: 20px;
+}
+ 
+
